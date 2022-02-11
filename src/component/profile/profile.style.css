@@ -1,0 +1,23 @@
+h2{
+    color: red;
+}
+p{
+    color: green;
+}
+.profile{
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.profilee{
+    display: flex;
+    justify-content: center;
+}
